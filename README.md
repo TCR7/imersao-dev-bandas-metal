@@ -1,7 +1,7 @@
 # Bandas de Metal - Busca Rápida e Intuitiva
 
 ## Descrição
-Este projeto web é um buscador de bandas de metal, criado para auxiliar os fãs a encontrarem suas bandas favoritas de forma rápida e eficiente. A aplicação permite pesquisar por título, descrição e tags das bandas, oferecendo uma experiência intuitiva e personalizada.
+Este projeto web é um buscador de bandas de metal feito durante a imersão dev da alura com o google gemini, criado para auxiliar os fãs a encontrarem suas bandas favoritas de forma rápida e eficiente. A aplicação permite pesquisar por título, descrição e tags das bandas, oferecendo uma experiência intuitiva e personalizada.
 
 ## Tecnologias Utilizadas
 * **HTML:** Estruturação da página e elementos da interface do usuário.
